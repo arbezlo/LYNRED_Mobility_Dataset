@@ -18,7 +18,7 @@ To reproduce the results given in the Figure 3 and Figure 5 of the paper, you wi
  We provide a requierments.txt file to install all dependecies requiered for the repo to function. You can install them using the followuing command : 
 
  ```
- pip install -r requierments.txt
+ pip install -r requirements.txt
  ```
  
 
