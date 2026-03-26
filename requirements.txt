@@ -1,0 +1,8 @@
+pip install argparse
+pip install pycocotools
+pip install numpy
+pip install json
+pip install tqdm
+pip install matplotlib
+pip install pandas
+pip install seaborn
